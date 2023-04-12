@@ -1,0 +1,17 @@
+{
+  "name": "atividade_backend",
+  "version": "1.0.0",
+  "description": "Atividade Back-end SoulCode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.18.2"
+  }
+}
